@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+.column {
+    background-color: grey;
+    padding: 2rem 3rem 10rem !important;
+}
+
+.head {
+    font-weight: 500;
+    font-size: 40px;
+}
+
+body {
+    font-family: 'Fredoka One', cursive !important;
+}
+
+.p {
+    font-size: 30px;
+}
+
+.navbar-nav {
+    background-color: whitesmoke;
+}
+
+ul a {
+    text-decoration: none;
+}
+
+ul a:nth-child(1) {
+    color: #D59898;
+}
+
+ul a:nth-child(2) {
+    color: #C14543;
+}
+
+ul a:nth-child(3) {
+    color: #E5D198;
+}
